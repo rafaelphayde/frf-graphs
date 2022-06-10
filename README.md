@@ -1,4 +1,6 @@
-# Gráficos de FRF de un grado de libertad.
+<p align="center">
+    // Your content
+</p>
 
 ### Asignatura: Análisis y Aislamiento de Vibraciones - ACUS125
 #### Profesor responsable: Dr. Víctor Poblete
