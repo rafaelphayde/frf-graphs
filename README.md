@@ -5,4 +5,4 @@
 - Estudiante: Rafael P. Hayde <br>
 rafael dot penailillo at alumnos dot uach dot cl <br>
 - Profesor responsable: Dr. Víctor Poblete
-vpoblete at uach dot cl</a><br>
+vpoblete at uach dot cl
